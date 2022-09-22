@@ -13,7 +13,7 @@ spec:
 
   # Source of the application manifests
   source:
-    repoURL: https://github.com/Ilyashastakouski/gitops-level-2.git
+    repoURL: git@github.com:Ilyashastakouski/gitops-level-2.git
     targetRevision: HEAD
     path: ./app-of-apps/my-app-list
    
